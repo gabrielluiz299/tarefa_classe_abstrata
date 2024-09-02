@@ -1,5 +1,5 @@
 package br.com.gsoares.abstrata;
 
-public class PessoaFisica {
-
+public class PessoaFisica extends Pessoa {
+	private int cpf;
 }
